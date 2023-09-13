@@ -1,0 +1,64 @@
+<html>
+<body>
+<pre>
+<h1>킮ision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: μVision V5.36.0.0
+Copyright (C) 2021 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: shin kyungho, tukorea, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.36.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.36.0.0
+Dialog DLL:      DARMCM1.DLL V1.19.4.0
+Target DLL:      Nu_Link.dll V3.10
+Dialog DLL:      TARMCM1.DLL V1.14.4.0
+ 
+<h2>Project:</h2>
+C:\Users\SKH\OneDrive\문서\RTOS Embeded\ICT JJoKKi\23_HF121\MAST_NUC130_Code\FDe_Project_Master_V22_chosungError_random_BUT_global variable - 복사본\Project.uvprojx
+Project File Date:  09/04/2023
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Rebuild target 'Project1'
+assembling startup_NUC1xx.s...
+compiling system_NUC100Series.c...
+compiling uart.c...
+compiling adc.c...
+compiling gpio.c...
+compiling sys.c...
+compiling timer.c...
+compiling clk.c...
+compiling NUC130LC1CN.c...
+NUC130LC1CN.c(897): warning:  #223-D: function "rand" declared implicitly
+  				random[number]=rand()%run.howmanystudent;
+NUC130LC1CN.c(898): warning:  #174-D: expression has no effect
+  				for(equal ; equal<number ; equal++ ){
+NUC130LC1CN.c(875): warning:  #550-D: variable "person"  was set but never used
+  	int person = 0;
+NUC130LC1CN.c: 3 warnings, 0 errors
+linking...
+Program Size: Code=9316 RO-data=360 RW-data=68 ZI-data=1540  
+".\Objects\Project.axf" - 0 Error(s), 3 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: Nuvoton
+                https://github.com/OpenNuvoton/cmsis-packs/raw/master/Nuvoton_DFP/Nuvoton.NuMicro_DFP.1.3.18.pack
+                Nuvoton.NuMicro_DFP.1.3.18
+                Nuvoton ARM Cortex-M NuMicro Family Device Support
+
+<h2>Collection of Component include folders:</h2>
+  C:\Users\SKH\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.18\Device\NUC100\Include
+
+<h2>Collection of Component Files used:</h2>
+Build Time Elapsed:  00:00:00
+</pre>
+</body>
+</html>
