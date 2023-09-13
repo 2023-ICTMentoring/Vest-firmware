@@ -1,0 +1,17 @@
+FDe_Project_V16_KEYBD_LCD_RF :
+- 키보드 입력에 학생 디바이스에 정보 보냄
+- 영상 촬영후 유튜브 올림
+
+FDe_Project_V17_KEYBD_LCD_RF -ADC:
+-키보드 ADC값을 다시 설정
+
+FDe_Project_V18_KEYBD_LCD_RF_ADC_OX_KOREA:
+-OX게임 및 초성게임 보내는것 + 학생보드에서 들어오는 데이터 읽음
+
+FDe_Project_V19_KEYBD_LCD_RF_ADC_OX_KOREA:
+-간단한 코드 수정및 간소화
+
+FDe_Project_Master_V20_Code_Simplification:
+- 프로그램 효율적으로 변경
+- 프로토콜 변경
+
