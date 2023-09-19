@@ -21,3 +21,6 @@ XO게임시 타이머 끝나갈때 경고 부저 오류 해결
 
 E3355_Student_T11_V20_ChosungGameV2:
 초성 그룹게임 추가
+
+E3355_Student_T11_V21_ChosungGameV3:
+초성 그룹게임 된소리 제거 및 에러 제거

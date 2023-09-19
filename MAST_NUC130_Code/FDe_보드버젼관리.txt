@@ -15,3 +15,16 @@ FDe_Project_Master_V20_Code_Simplification:
 - 프로그램 효율적으로 변경
 - 프로토콜 변경
 
+FDe_Project_Master_V21_chosungError:
+-초성게임 에러해결
+
+FDe_Project_Master_V22_chosungError_random_BUT_global variable:
+-초성게임 에러는 해결했지만 전역변수 사용
+
+FDe_Project_Master_V23_complite:
+- malloc()사용하여 전역변수 대체
+
+FDe_Project_Master_V24:
+- warning제거하여 코드 안정화
+
+
