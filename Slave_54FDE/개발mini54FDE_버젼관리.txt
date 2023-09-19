@@ -1,0 +1,26 @@
+
+다음 사항은 폴더의 내용과 개발 정리
+
+E3355_T11_V14_GOOD:
+마스터보드에서 들어오는 핑테스트, 부저테스트, led테스트 제작
+
+E3355_T11_V15_XO_GAME:
+XO게임 완성 
+
+E3355_T11_V16_XO_GAME_KOREAN:
+초성게임 추가
+
+E3355_T11_V17_XO_KOREA_PC_Serial:
+XO게임 초성게임 시리얼통신부분 추가
+
+E3355_Student_T11_V18_CodeSimplification:
+프로토콜 변경 및 코드 간결화
+
+E3355_Student_T11_V19_timer_buzzer:
+XO게임시 타이머 끝나갈때 경고 부저 오류 해결
+
+E3355_Student_T11_V20_ChosungGameV2:
+초성 그룹게임 추가
+
+E3355_Student_T11_V21_ChosungGameV3:
+초성 그룹게임 된소리 제거 및 에러 제거

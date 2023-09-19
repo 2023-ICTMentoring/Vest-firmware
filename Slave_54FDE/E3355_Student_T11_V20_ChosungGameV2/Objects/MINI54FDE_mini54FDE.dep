@@ -1,0 +1,162 @@
+Dependencies for Project 'MINI54FDE', Target 'mini54FDE': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (..\Mini51DE_CMSIS_V301002\startup_Mini51Series.s)(0x58BCBCAA)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-IC:\Users\SKH\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.18\Device\Mini51\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 536"-o .\objects\startup_mini51series.o --depend .\objects\startup_mini51series.d)
+F (..\Mini51DE_CMSIS_V301002\system_Mini51Series.c)(0x58BCBCAA)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\ -I ..\Mini51DE_CMSIS_V301002-IC:\Users\SKH\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.18\Device\Mini51\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="536"-o .\objects\system_mini51series.o --omf_browse .\objects\system_mini51series.crf --depend .\objects\system_mini51series.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025156E)
+I (..\Mini51DE_CMSIS_V301002\Mini51Series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\core_cm0.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\core_cmInstr.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\core_cmFunc.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\system_Mini51Series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\sys.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\clk.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\acmp.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\adc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\fmc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\gpio.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\i2c.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\pwm.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\spi.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\timer.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\uart.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\wdt.h)(0x58BCBCAA)
+F (..\Mini51DE_CMSIS_V301002\clk.c)(0x58BCBCAA)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\ -I ..\Mini51DE_CMSIS_V301002-IC:\Users\SKH\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.18\Device\Mini51\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="536"-o .\objects\clk.o --omf_browse .\objects\clk.crf --depend .\objects\clk.d)
+I (..\Mini51DE_CMSIS_V301002\Mini51Series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\core_cm0.h)(0x530DC5DC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025156E)
+I (..\Mini51DE_CMSIS_V301002\core_cmInstr.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\core_cmFunc.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\system_Mini51Series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\sys.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\clk.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\acmp.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\adc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\fmc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\gpio.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\i2c.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\pwm.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\spi.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\timer.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\uart.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\wdt.h)(0x58BCBCAA)
+F (..\Mini51DE_CMSIS_V301002\adc.c)(0x58BCBCAA)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\ -I ..\Mini51DE_CMSIS_V301002-IC:\Users\SKH\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.18\Device\Mini51\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="536"-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (..\Mini51DE_CMSIS_V301002\Mini51Series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\core_cm0.h)(0x530DC5DC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025156E)
+I (..\Mini51DE_CMSIS_V301002\core_cmInstr.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\core_cmFunc.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\system_Mini51Series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\sys.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\clk.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\acmp.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\adc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\fmc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\gpio.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\i2c.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\pwm.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\spi.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\timer.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\uart.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\wdt.h)(0x58BCBCAA)
+F (..\Mini51DE_CMSIS_V301002\gpio.c)(0x58BCBCAA)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\ -I ..\Mini51DE_CMSIS_V301002-IC:\Users\SKH\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.18\Device\Mini51\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="536"-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (..\Mini51DE_CMSIS_V301002\mini51series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\core_cm0.h)(0x530DC5DC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025156E)
+I (..\Mini51DE_CMSIS_V301002\core_cmInstr.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\core_cmFunc.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\system_Mini51Series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\sys.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\clk.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\acmp.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\adc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\fmc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\gpio.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\i2c.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\pwm.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\spi.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\timer.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\uart.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\wdt.h)(0x58BCBCAA)
+F (..\Mini51DE_CMSIS_V301002\sys.c)(0x58BCBCAA)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\ -I ..\Mini51DE_CMSIS_V301002-IC:\Users\SKH\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.18\Device\Mini51\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="536"-o .\objects\sys.o --omf_browse .\objects\sys.crf --depend .\objects\sys.d)
+I (..\Mini51DE_CMSIS_V301002\Mini51Series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\core_cm0.h)(0x530DC5DC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025156E)
+I (..\Mini51DE_CMSIS_V301002\core_cmInstr.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\core_cmFunc.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\system_Mini51Series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\sys.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\clk.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\acmp.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\adc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\fmc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\gpio.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\i2c.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\pwm.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\spi.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\timer.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\uart.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\wdt.h)(0x58BCBCAA)
+F (..\Mini51DE_CMSIS_V301002\timer.c)(0x58BCBCAA)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\ -I ..\Mini51DE_CMSIS_V301002-IC:\Users\SKH\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.18\Device\Mini51\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="536"-o .\objects\timer.o --omf_browse .\objects\timer.crf --depend .\objects\timer.d)
+I (..\Mini51DE_CMSIS_V301002\Mini51Series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\core_cm0.h)(0x530DC5DC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025156E)
+I (..\Mini51DE_CMSIS_V301002\core_cmInstr.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\core_cmFunc.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\system_Mini51Series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\sys.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\clk.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\acmp.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\adc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\fmc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\gpio.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\i2c.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\pwm.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\spi.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\timer.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\uart.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\wdt.h)(0x58BCBCAA)
+F (..\Mini51DE_CMSIS_V301002\uart.c)(0x58BCBCAA)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\ -I ..\Mini51DE_CMSIS_V301002-IC:\Users\SKH\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.18\Device\Mini51\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="536"-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60251564)
+I (..\Mini51DE_CMSIS_V301002\Mini51Series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\core_cm0.h)(0x530DC5DC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025156E)
+I (..\Mini51DE_CMSIS_V301002\core_cmInstr.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\core_cmFunc.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\system_Mini51Series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\sys.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\clk.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\acmp.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\adc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\fmc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\gpio.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\i2c.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\pwm.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\spi.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\timer.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\uart.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\wdt.h)(0x58BCBCAA)
+F (.\Mini54FDE.c)(0x64FD8CB4)(-c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\ -I ..\Mini51DE_CMSIS_V301002-IC:\Users\SKH\AppData\Local\Arm\Packs\Nuvoton\NuMicro_DFP\1.3.18\Device\Mini51\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="536"-o .\objects\mini54fde.o --omf_browse .\objects\mini54fde.crf --depend .\objects\mini54fde.d)
+I (mini54FDE.h)(0x64FD8D40)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x6025156C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025156E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x60251564)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x60251564)
+I (..\Mini51DE_CMSIS_V301002\Mini51Series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\core_cm0.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\core_cmInstr.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\core_cmFunc.h)(0x530DC5DC)
+I (..\Mini51DE_CMSIS_V301002\system_Mini51Series.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\sys.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\clk.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\acmp.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\adc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\fmc.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\gpio.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\i2c.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\pwm.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\spi.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\timer.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\uart.h)(0x58BCBCAA)
+I (..\Mini51DE_CMSIS_V301002\wdt.h)(0x58BCBCAA)
+F (..\E3355_하드웨어정보.txt)(0x6474564A)()
+F (..\개발mini54FDE_버젼관리.txt)(0x64F9FB27)()
